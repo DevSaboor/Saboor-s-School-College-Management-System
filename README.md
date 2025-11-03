@@ -1,2 +1,3 @@
-# Saboor-s-School-College-Management-System
-A console-based School/College Management System in C++ with file handling, supporting student and teacher records management (add, search, display, delete) and a simple colored UI.
+# 🎓 School / College Management System (C++)
+
+This is a simple console-based **School/College Management System** written in C++. It allows management of both **students** and **teachers**, with features like adding, displaying, searching, and deleting records. Student records include roll number, name, class, marks, total, percentage, and grade calculation, while teacher records include ID, name, subject, and qualification. Data is stored in text files (`students.txt`, `teachers.txt`) using file handling for persistence. The program also features a colored console interface and menu-driven navigation (Windows only).
